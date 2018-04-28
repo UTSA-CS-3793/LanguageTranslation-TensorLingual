@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/velij/Documents/Programming/Python/translator/data/best_model.ckpt"
+all_model_checkpoint_paths: "/home/velij/Documents/Programming/Python/translator/data/best_model.ckpt"
